@@ -24,7 +24,7 @@
 ⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
 
 ## `👨‍💻` LANGUAGES
-[![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,lua,windows,robloxstudio)](https://skillicons.dev)
 
 ## `🧠` CODE
 I am not a skid, you can skid check me 😱.
