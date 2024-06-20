@@ -27,4 +27,4 @@
 [![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
 
 ## `🧠` CODE
-I am not a skid, you can skid check me with OMG 😱 emojis.
+I am not a skid, you can skid check me with OMG 😱.
