@@ -1,5 +1,3 @@
-
-
 # Hello there! I'm Blake 👋
 
 ## Cybersecurity Enthusiast and Developer
@@ -19,7 +17,7 @@
 
 - :office: Currently focusing on **Cybersecurity Projects**
 - :seedling: Learning **Reverse Engineering**
-- :speech_balloon: Interested in **Malware Analysis** and **Red Teaming**
+- :speech_balloon: Interested in **Malware Analysis**, **Red Teaming**, and **Operating System Internals**
 - :computer: Connect with me on **GitHub**
 
 <br>
@@ -55,22 +53,17 @@
   </tr>
 </table>
 
-<h2 align="left">GitHub Coding Activity</h2>
+<h2 align="left">Interests</h2>
 
-<!-- START_SECTION:ascii_graph -->
+- 🔍 Malware Development
+- 🖥️ Operating System Internals
+- 🛡️ Cybersecurity Research
+- 🌀 Reverse Engineering
 
-```
-  1000 hr  ┤                                                   
-   900 hr  ┤                                                   
-   800 hr  ┤                                                   
-   700 hr  ┤                                                   
-   600 hr  ┤                                                   
-   500 hr  ┤                                                   
-   400 hr  ┤                                                   
-   300 hr  ┤                                                   
-   200 hr  ┤                                                   
-   100 hr  ┼────────────────────────────────────────────────────
-      0 hr  ┘
-```
+<br>
 
-<!-- END_SECTION:ascii_graph -->
+<h2 align="left">GitHub Activity</h2>
+
+<!-- START_SECTION:waka -->
+```markdown
+![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical)
