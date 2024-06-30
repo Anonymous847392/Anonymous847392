@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CeruleanScripts&color=blueviolet&style=flat-square)
 
 ## 🚀 About Me
-💬 Cybersecurity enthusiast focusing on malware development, operating system internals, reverse engineering, and red teaming.
+💬 **Cybersecurity enthusiast** focusing on malware development, operating system internals, reverse engineering, and red teaming.
 
 - 🔞 **Age**: 17
 - 💼 **Experience**: I've been coding for a while now, focusing on cybersecurity and malware development.
@@ -12,25 +12,27 @@
 
 ### 📜 Offset Dumper
 A tool for dumping offsets in executables.
-- **Language**: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+- **Language**: C++
 - **Repository**: Coming Soon
 
 ### 🔧 VM Creation
 Working on creating a virtual machine from scratch.
-- **Language**: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+- **Language**: C++
 - **Repository**: Coming Soon
 
 ## 🎮 Interests
 - **One Piece Fan**: Enthusiastic follower of One Piece.
 
 ## ⭐ Certifications
-- ![C|EH](https://img.shields.io/badge/C|EH-Practical-blueviolet?style=flat-square)
-- ![eJPT](https://img.shields.io/badge/eJPT-Intermediate-blueviolet?style=flat-square)
-- ![eCPPT](https://img.shields.io/badge/eCPPT-Advanced-blueviolet?style=flat-square)
-- ![CRTP](https://img.shields.io/badge/CRTP-Expert-blueviolet?style=flat-square)
-- ![CRTE](https://img.shields.io/badge/CRTE-Master-blueviolet?style=flat-square)
-- ![OSCP](https://img.shields.io/badge/OSCP-Master-blueviolet?style=flat-square)
-- ![PNPT](https://img.shields.io/badge/PNPT-Professional-blueviolet?style=flat-square)
+- **C|EH Practical**
+- **eJPT**
+- **eCPPT**
+- **CRTP**
+- **CRTE**
+- **OSCP**
+- **PNPT**
 
 ## 👨‍💻 Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
