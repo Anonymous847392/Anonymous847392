@@ -1,64 +1,46 @@
-# Hello there! I'm Blake 👋
+<h1 align="center">👋 Hello there! I'm CeruleanScripts</h1>
 
-## Cybersecurity Enthusiast and Developer
+<h3 align="center">Cybersecurity Enthusiast | Malware Developer | Reverse Engineering</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/CeruleanScripts">
-    <img src="https://komarev.com/ghpvc/?username=CeruleanScripts" alt="page views" />
-  </a>
-  <a href="https://github.com/CeruleanScripts?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/CeruleanScripts?style=flat&logo=github">
+    <img src="https://img.shields.io/github/followers/CeruleanScripts?style=flat&logo=github&color=success" alt="GitHub followers" />
   </a>
 </p>
 
-<a href="#ceruleanscripts-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical" alt="CeruleanScripts Stats" align="right" />
-</a>
+---
 
-- :office: Currently focusing on **Cybersecurity Projects**
-- :seedling: Learning **Reverse Engineering**
-- :speech_balloon: Interested in **Malware Analysis**, **Red Teaming**, and **Operating System Internals**
-- :computer: Connect with me on **GitHub**
+### 🌱 Current Projects
 
-<br>
+- 📜 **Offset Dumper**: A tool for dumping offsets in executables.
+  - Language: C++
+  - Repository: Coming Soon
 
-<h2 align="left">Favorite Tech</h2>
+- 🔧 **VM Creation**: Working on creating a virtual machine from scratch.
+  - Language: C++
+  - Repository: Coming Soon
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-      <br>Kali Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+### 🎮 Interests
 
-<h2 align="left">Recent GitHub Activity</h2>
+- One Piece Fan: Enthusiastic follower of One Piece manga and anime.
+- Cybersecurity: Passionate about exploring cybersecurity, malware development, and reverse engineering.
 
-<ul>
-  <li>Pushed 3 commits to repository X</li>
-  <li>Opened 1 issue in repository Y</li>
-  <li>Merged 2 pull requests in repository Z</li>
-  <!-- Add more recent activities based on your GitHub Action output -->
-</ul>
+### ⭐ Certifications
 
+- C|EH Practical
+- eJPT
+- eCPPT
+- CRTP
+- CRTE*
+- OSCP*
+- PNPT*
+
+---
+
+### 📊 GitHub Activity
+
+<!-- This section will be automatically updated by GitHub Actions -->
+
+### 📫 Connect with Me
+
+<!-- Add any additional contact or social media links here -->
