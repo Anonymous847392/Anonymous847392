@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! I'm CeruleanScripts</h1>
+<h1 align="center">👋 Hello there! I'm Blake</h1>
 
 <h3 align="center">Cybersecurity Enthusiast | Malware Developer | Reverse Engineering</h3>
 
@@ -37,7 +37,6 @@
 
 ---
 
-### 📊 GitHub Activity
 
 <!-- This section will be automatically updated by GitHub Actions -->
 
