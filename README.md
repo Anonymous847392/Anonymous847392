@@ -1,42 +1,76 @@
-# Hi there 👋
 
-I'm Blake, a passionate cybersecurity enthusiast and developer.
 
-## Skills & Interests
+# Hello there! I'm Blake 👋
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=flat-square&logo=cybersecurity&logoColor=white)
-![Malware Development](https://img.shields.io/badge/Malware-Development-%23000000.svg?&style=flat-square&logo=malware&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse-Engineering-%23000000.svg?&style=flat-square&logo=reverseengineering&logoColor=white)
+## Cybersecurity Enthusiast and Developer
 
-## Certifications
+<p align="left">
+  <a href="https://github.com/CeruleanScripts">
+    <img src="https://komarev.com/ghpvc/?username=CeruleanScripts" alt="page views" />
+  </a>
+  <a href="https://github.com/CeruleanScripts?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/CeruleanScripts?style=flat&logo=github">
+  </a>
+</p>
 
-[![C|EH](https://img.shields.io/badge/C|EH-Practical-blueviolet?style=flat-square&logo=eccouncil&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-[![eJPT](https://img.shields.io/badge/eJPT-Intermediate-blueviolet?style=flat-square&logo=elearnsecurity&logoColor=white)](https://elearnsecurity.com/product/ejpt-certification/)
-[![eCPPT](https://img.shields.io/badge/eCPPT-Advanced-blueviolet?style=flat-square&logo=elearnsecurity&logoColor=white)](https://elearnsecurity.com/product/ecppt-certification/)
-[![CRTP](https://img.shields.io/badge/CRTP-Expert-blueviolet?style=flat-square&logo=pentesteracademy&logoColor=white)](https://www.pentesteracademy.com/redteamlab)
-[![OSCP](https://img.shields.io/badge/OSCP-Master-blueviolet?style=flat-square&logo=offensivesecurity&logoColor=white)](https://www.offensive-security.com/courses-and-certifications/penetration-testing-with-kali-linux/)
-[![PNPT](https://img.shields.io/badge/PNPT-Professional-blueviolet?style=flat-square&logo=tcmsec&logoColor=white)](https://certifications.tcm-sec.com/pnpt/)
+<a href="#ceruleanscripts-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical" alt="CeruleanScripts Stats" align="right" />
+</a>
 
-## Projects
+- :office: Currently focusing on **Cybersecurity Projects**
+- :seedling: Learning **Reverse Engineering**
+- :speech_balloon: Interested in **Malware Analysis** and **Red Teaming**
+- :computer: Connect with me on **GitHub**
 
-### Offset Dumper
-A tool for dumping offsets in executables.
+<br>
 
-- **Language**: C++
-- **Repository**: Coming Soon
+<h2 align="left">Favorite Tech</h2>
 
-### VM Creation
-Working on creating a virtual machine from scratch.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
-- **Language**: C++
-- **Repository**: Coming Soon
+<h2 align="left">GitHub Coding Activity</h2>
 
-## GitHub Stats
+<!-- START_SECTION:ascii_graph -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical)
+```
+  1000 hr  ┤                                                   
+   900 hr  ┤                                                   
+   800 hr  ┤                                                   
+   700 hr  ┤                                                   
+   600 hr  ┤                                                   
+   500 hr  ┤                                                   
+   400 hr  ┤                                                   
+   300 hr  ┤                                                   
+   200 hr  ┤                                                   
+   100 hr  ┼────────────────────────────────────────────────────
+      0 hr  ┘
+```
 
-## Code Philosophy
-
-I am not a skid, you can skid check me 😱.
-
-![One Piece Fan](https://img.shields.io/badge/One%20Piece-Fan-%23FFD700.svg?&style=flat-square&logo=onepiece&logoColor=white)
+<!-- END_SECTION:ascii_graph -->
