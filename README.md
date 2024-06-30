@@ -53,18 +53,12 @@
   </tr>
 </table>
 
-<h2 align="left">Interests</h2>
+<h2 align="left">Recent GitHub Activity</h2>
 
-- 🔍 Malware Development
-- 🖥️ Operating System Internals
-- 🛡️ Cybersecurity Research
-- 🌀 Reverse Engineering
-
-<br>
-
-<h2 align="left">GitHub Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github.com/CeruleanScripts/CeruleanScripts/raw/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-</p>
+<ul>
+  <li>Pushed 3 commits to repository X</li>
+  <li>Opened 1 issue in repository Y</li>
+  <li>Merged 2 pull requests in repository Z</li>
+  <!-- Add more recent activities based on your GitHub Action output -->
+</ul>
 
