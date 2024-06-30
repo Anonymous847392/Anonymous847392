@@ -1,0 +1,28 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch GitHub activity
+        run: |
+          curl -s "https://api.github.com/users/CeruleanScripts/events" > activity.json
+
+      - name: Process GitHub activity
+        run: |
+          cat activity.json | jq '.[] | select(.type=="PushEvent" or .type=="PullRequestEvent") | "\(.actor.login) \(.type): \(.payload)"' > recent_activity.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add recent_activity.md
+          git commit -m "Update GitHub activity feed [skip ci]"
+          git push
