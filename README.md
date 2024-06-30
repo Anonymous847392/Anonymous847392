@@ -37,9 +37,3 @@
 
 ---
 
-
-<!-- This section will be automatically updated by GitHub Actions -->
-
-### 📫 Connect with Me
-
-<!-- Add any additional contact or social media links here -->
