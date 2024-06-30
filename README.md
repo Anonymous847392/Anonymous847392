@@ -1,30 +1,49 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=hey%2C+it's+Blake!;currently%3A+poking+at+windows+with+a+stick;currently%3A+studying+the+arcane+arts;currently%3A+spamming+F5+inIDA;currently%3A+shadowboxing+security+solutions;currently%3A+succumbing+to+the+void;currently%3A+loitering+in+CPL%3D0;currently%3A+thumbing+through+grimoires+(SDMs))](https://git.io/typing-svg)
+# 👋 Hi, I'm Blake
 
-### About Me
-- **Name**: blake
-- **Age**: 17
-- **Experience**: i've been coding for a while now, focusing on cybersecurity and malware  development.
+![Profile Views](https://komarev.com/ghpvc/?username=BlakeUsername&color=blueviolet&style=flat-square)
 
-💬 **Me**: cybersecurity enthusiast focusing on malware development, operating system internals, reverse engineering, and red teaming. 
+## 🚀 About Me
+💬 Cybersecurity enthusiast focusing on malware development, operating system internals, reverse engineering, and red teaming.
 
-🌱 **Projects**:
+- 🔞 Age: 17
+- 💼 Experience: I've been coding for a while now, focusing on cybersecurity and malware development.
 
-- `📜` **`offset dumper`**<br>
-  \\___[ tool for dumping offsets in executables<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`
+## 🌱 Projects
 
-- `🔧` **`vm creation`**<br>
-  \\___[ working on creating a virtual machine from scratch<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`
+### 📜 Offset Dumper
+A tool for dumping offsets in executables.
+- **Language**: C++
+- **Repository**: [Offset Dumper](https://github.com/BlakeUsername/Offset-Dumper)
 
-## `🎮` INTERESTS
-- `🎮` **`one piece fan`**<br>
-  \\___[ enthusiastic follower of One Piece<br>
+### 🔧 VM Creation
+Working on creating a virtual machine from scratch.
+- **Language**: C++
+- **Repository**: [VM Creation](https://github.com/BlakeUsername/VM-Creation)
 
-⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
+## 🎮 Interests
+- **One Piece Fan**: Enthusiastic follower of One Piece.
 
-## `👨‍💻` LANGUAGES
-[![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,lua,windows,robloxstudio)](https://skillicons.dev)
+## ⭐ Certifications
+- C|EH Practical
+- eJPT
+- eCPPT
+- CRTP
+- CRTE*
+- OSCP*
+- PNPT*
 
-## `🧠` CODE
+## 👨‍💻 Languages & Tools
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlakeUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeUsername&layout=compact&theme=radical)
+
+## 🧠 Code Philosophy
 I am not a skid, you can skid check me 😱.
+
+---
+⭐️ From [BlakeUsername](https://github.com/BlakeUsername)
