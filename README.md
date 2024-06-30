@@ -62,8 +62,9 @@
 
 <br>
 
-<h2 align="left">GitHub Activity</h2>
+<h2 align="left">GitHub Contribution Graph</h2>
 
-<!-- START_SECTION:waka -->
-```markdown
-![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github.com/CeruleanScripts/CeruleanScripts/raw/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+</p>
+
