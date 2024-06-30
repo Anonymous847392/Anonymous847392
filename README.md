@@ -1,73 +1,74 @@
-<h3 align="center"> Hi there 👋</h3>
+<h1 align="center"> Hi there 👋</h1>
 
 <p align="center">
 I'm Blake, a passionate cybersecurity enthusiast and developer.
 </p>
 
-<h4 align="center">
-💻 Cybersecurity | 🚀 Malware Development | 🌱 Reverse Engineering
-</h4>
-
 <p align="center">
-<a href="https://github.com/CeruleanScripts">@CeruleanScripts</a>
+<a href="https://github.com/CeruleanScripts">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </p>
 
-<br/>
-
-<h3 align="center">
-My Tech Stacks
-</h3>
+<h2 align="center">Skills & Interests</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/CeruleanScripts/CeruleanScripts/master/assets/tech-stacks.png" alt="Tech Stacks"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Malware-Development-%23000000.svg?&style=for-the-badge&logo=malware&logoColor=white" alt="Malware Development"/>
+  <img src="https://img.shields.io/badge/Reverse-Engineering-%23000000.svg?&style=for-the-badge&logo=reverseengineering&logoColor=white" alt="Reverse Engineering"/>
 </p>
 
-## 🌟 About Me
+<h2 align="center">Certifications</h2>
 
-- 💬 **Cybersecurity enthusiast** focusing on malware development, operating system internals, reverse engineering, and red teaming.
-- 🔞 **Age**: 17
-- 💼 **Experience**: I've been coding for a while now, focusing on cybersecurity and malware development.
+<p align="center">
+  <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/">
+    <img src="https://img.shields.io/badge/C|EH-Practical-blueviolet?style=flat-square&logo=eccouncil&logoColor=white" alt="C|EH Certification"/>
+  </a>
+  <a href="https://elearnsecurity.com/product/ejpt-certification/">
+    <img src="https://img.shields.io/badge/eJPT-Intermediate-blueviolet?style=flat-square&logo=elearnsecurity&logoColor=white" alt="eJPT Certification"/>
+  </a>
+  <a href="https://elearnsecurity.com/product/ecppt-certification/">
+    <img src="https://img.shields.io/badge/eCPPT-Advanced-blueviolet?style=flat-square&logo=elearnsecurity&logoColor=white" alt="eCPPT Certification"/>
+  </a>
+  <a href="https://www.pentesteracademy.com/redteamlab">
+    <img src="https://img.shields.io/badge/CRTP-Expert-blueviolet?style=flat-square&logo=pentesteracademy&logoColor=white" alt="CRTP Certification"/>
+  </a>
+  <a href="https://www.offensive-security.com/courses-and-certifications/penetration-testing-with-kali-linux/">
+    <img src="https://img.shields.io/badge/OSCP-Master-blueviolet?style=flat-square&logo=offensivesecurity&logoColor=white" alt="OSCP Certification"/>
+  </a>
+  <a href="https://certifications.tcm-sec.com/pnpt/">
+    <img src="https://img.shields.io/badge/PNPT-Professional-blueviolet?style=flat-square&logo=tcmsec&logoColor=white" alt="PNPT Certification"/>
+  </a>
+</p>
 
-## 🚀 Projects
+<h2 align="center">Projects</h2>
 
-### 📜 Offset Dumper
+### Offset Dumper
 A tool for dumping offsets in executables.
 
 - **Language**: C++
 - **Repository**: Coming Soon
 
-### 🔧 VM Creation
+### VM Creation
 Working on creating a virtual machine from scratch.
 
 - **Language**: C++
 - **Repository**: Coming Soon
 
-## ⭐ Certifications
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-<a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/C|EH-Practical-blueviolet?style=for-the-badge"/></a>
-<a href="https://elearnsecurity.com/product/ejpt-certification/"><img src="https://img.shields.io/badge/eJPT-Intermediate-blueviolet?style=for-the-badge"/></a>
-<a href="https://elearnsecurity.com/product/ecppt-certification/"><img src="https://img.shields.io/badge/eCPPT-Advanced-blueviolet?style=for-the-badge"/></a>
-<a href="https://www.pentesteracademy.com/redteamlab"><img src="https://img.shields.io/badge/CRTP-Expert-blueviolet?style=for-the-badge"/></a>
-<a href="https://www.pentesteracademy.com/redteamlab"><img src="https://img.shields.io/badge/CRTE-Master-blueviolet?style=for-the-badge"/></a>
-<a href="https://www.offensive-security.com/courses-and-certifications/penetration-testing-with-kali-linux/"><img src="https://img.shields.io/badge/OSCP-Master-blueviolet?style=for-the-badge"/></a>
-<a href="https://certifications.tcm-sec.com/pnpt/"><img src="https://img.shields.io/badge/PNPT-Professional-blueviolet?style=for-the-badge"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CeruleanScripts&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeruleanScripts&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-## 🧠 Code Philosophy
+<h2 align="center">Code Philosophy</h2>
 
 <p align="center">
 I am not a skid, you can skid check me 😱.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/One%20Piece-Fan-%23FFD700.svg?&style=for-the-badge&logo=onepiece&logoColor=white" alt="One Piece Fan"/>
 </p>
 
 ---
